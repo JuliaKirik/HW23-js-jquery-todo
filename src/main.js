@@ -3,7 +3,7 @@ class TodoList {
         this.el = el;
         this.$list = $('#list')[0];
         this.url = 'http://localhost:3000/todos';
-
+ 
         $(el).on('click', (event) => {
             if ($(event.target).hasClass("set-status")) {
                 this.update(event);

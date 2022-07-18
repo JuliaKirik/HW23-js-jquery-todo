@@ -1,9 +1,9 @@
 {
   "todos": [
     {
-      "id": 1,
       "task": "buy milk",
-      "status": "done"
+      "status": "in-progress",
+      "id": 1
     },
     {
       "task": "buy bread",
@@ -14,6 +14,11 @@
       "task": "buy sugar",
       "status": "in-progress",
       "id": 3
+    },
+    {
+      "task": "fergv",
+      "status": "in-progress",
+      "id": 4
     }
   ]
 }

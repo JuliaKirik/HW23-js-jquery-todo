@@ -2,7 +2,7 @@
   "todos": [
     {
       "task": "buy milk",
-      "status": "in-progress",
+      "status": "done",
       "id": 1
     },
     {
@@ -14,11 +14,6 @@
       "task": "buy sugar",
       "status": "in-progress",
       "id": 3
-    },
-    {
-      "task": "fergv",
-      "status": "in-progress",
-      "id": 4
     }
   ]
 }
